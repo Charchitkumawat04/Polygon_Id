@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "MeriPhechan": {
-          "@id": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id.jsonld#collegeID",
+          "@id": "https://raw.githubusercontent.com/Charchitkumawat04/Polygon_Id/main/workshopAttendence.jsonld",
           "@context": {
             "@version": 1.1,
             "@protected": true,
