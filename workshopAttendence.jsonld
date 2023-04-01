@@ -1,25 +1,25 @@
 {
-  "@context": [
-    {
-      "@version": 1.1,
-      "@protected": true,
-      "id": "@id",
-      "type": "@type",
-      "ProofOfAttendance": {
-        "@id": "https://raw.githubusercontent.com/Charchitkumawat04/Polygon_Id/main/Credential-schema.json",
-        "@context": {
-          "@version": 1.1,
-          "@protected": true,
-          "id": "@id",
-          "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/Charchitkumawat04/Polygon_Id/2f92c7367cc3f373186f25654353d89e4a9daf68/Attendance.md",
-          "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "entryDate": {
-            "@id": "vocab:isPresent",
-            "@type": "xsd:integer"
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "MUJCollegeID": {
+          "@id": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id.jsonld#collegeID",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "https://github.com/Sud0-AP/BUIDL-IRL-PolygonID/blob/master/manipal-university-college-id-vocab.md#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "collegeID": {
+              "@id": "vocab:collegeID",
+              "@type": "xsd:integer"
+            }
           }
         }
       }
-    }
-  ]
-}
+    ]
+  }
