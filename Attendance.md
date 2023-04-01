@@ -1,3 +1,3 @@
 ## Attendance Verification
 
-Can be used to check the past attendance.
+Can be used to check the number of attendence.
