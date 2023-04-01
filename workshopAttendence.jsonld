@@ -12,9 +12,9 @@
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "https://github.com/Sud0-AP/BUIDL-IRL-PolygonID/blob/master/manipal-university-college-id-vocab.md#",
+            "vocab": "https://github.com/Charchitkumawat04/Polygon_Id/blob/main/Identity.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
-            "collegeID": {
+            "MeraCollage": {
               "@id": "vocab:collegeID",
               "@type": "xsd:integer"
             }
