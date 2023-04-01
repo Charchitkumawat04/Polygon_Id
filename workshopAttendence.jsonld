@@ -15,7 +15,7 @@
             "vocab": "https://github.com/Charchitkumawat04/Polygon_Id/blob/main/Identity.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "MeraCollage": {
-              "@id": "vocab:collegeID",
+              "@id": "vocab:MeraCollage",
               "@type": "xsd:integer"
             }
           }
